@@ -1,0 +1,74 @@
+[
+{
+  "directory": "/Users/bibekthakur/Downloads/Packet_analyzer-main/build",
+  "command": "/usr/bin/c++  -I/Users/bibekthakur/Downloads/Packet_analyzer-main/include -std=c++17 -arch x86_64 -Wall -Wextra -Wpedantic -o CMakeFiles/net_sentinel.dir/src/core/Protocol.cpp.o -c /Users/bibekthakur/Downloads/Packet_analyzer-main/src/core/Protocol.cpp",
+  "file": "/Users/bibekthakur/Downloads/Packet_analyzer-main/src/core/Protocol.cpp",
+  "output": "CMakeFiles/net_sentinel.dir/src/core/Protocol.cpp.o"
+},
+{
+  "directory": "/Users/bibekthakur/Downloads/Packet_analyzer-main/build",
+  "command": "/usr/bin/c++  -I/Users/bibekthakur/Downloads/Packet_analyzer-main/include -std=c++17 -arch x86_64 -Wall -Wextra -Wpedantic -o CMakeFiles/net_sentinel.dir/src/core/Types.cpp.o -c /Users/bibekthakur/Downloads/Packet_analyzer-main/src/core/Types.cpp",
+  "file": "/Users/bibekthakur/Downloads/Packet_analyzer-main/src/core/Types.cpp",
+  "output": "CMakeFiles/net_sentinel.dir/src/core/Types.cpp.o"
+},
+{
+  "directory": "/Users/bibekthakur/Downloads/Packet_analyzer-main/build",
+  "command": "/usr/bin/c++  -I/Users/bibekthakur/Downloads/Packet_analyzer-main/include -std=c++17 -arch x86_64 -Wall -Wextra -Wpedantic -o CMakeFiles/net_sentinel.dir/src/capture/PcapIngester.cpp.o -c /Users/bibekthakur/Downloads/Packet_analyzer-main/src/capture/PcapIngester.cpp",
+  "file": "/Users/bibekthakur/Downloads/Packet_analyzer-main/src/capture/PcapIngester.cpp",
+  "output": "CMakeFiles/net_sentinel.dir/src/capture/PcapIngester.cpp.o"
+},
+{
+  "directory": "/Users/bibekthakur/Downloads/Packet_analyzer-main/build",
+  "command": "/usr/bin/c++  -I/Users/bibekthakur/Downloads/Packet_analyzer-main/include -std=c++17 -arch x86_64 -Wall -Wextra -Wpedantic -o CMakeFiles/net_sentinel.dir/src/capture/FrameDissector.cpp.o -c /Users/bibekthakur/Downloads/Packet_analyzer-main/src/capture/FrameDissector.cpp",
+  "file": "/Users/bibekthakur/Downloads/Packet_analyzer-main/src/capture/FrameDissector.cpp",
+  "output": "CMakeFiles/net_sentinel.dir/src/capture/FrameDissector.cpp.o"
+},
+{
+  "directory": "/Users/bibekthakur/Downloads/Packet_analyzer-main/build",
+  "command": "/usr/bin/c++  -I/Users/bibekthakur/Downloads/Packet_analyzer-main/include -std=c++17 -arch x86_64 -Wall -Wextra -Wpedantic -o CMakeFiles/net_sentinel.dir/src/flow/SessionLedger.cpp.o -c /Users/bibekthakur/Downloads/Packet_analyzer-main/src/flow/SessionLedger.cpp",
+  "file": "/Users/bibekthakur/Downloads/Packet_analyzer-main/src/flow/SessionLedger.cpp",
+  "output": "CMakeFiles/net_sentinel.dir/src/flow/SessionLedger.cpp.o"
+},
+{
+  "directory": "/Users/bibekthakur/Downloads/Packet_analyzer-main/build",
+  "command": "/usr/bin/c++  -I/Users/bibekthakur/Downloads/Packet_analyzer-main/include -std=c++17 -arch x86_64 -Wall -Wextra -Wpedantic -o CMakeFiles/net_sentinel.dir/src/flow/FlowOrchestrator.cpp.o -c /Users/bibekthakur/Downloads/Packet_analyzer-main/src/flow/FlowOrchestrator.cpp",
+  "file": "/Users/bibekthakur/Downloads/Packet_analyzer-main/src/flow/FlowOrchestrator.cpp",
+  "output": "CMakeFiles/net_sentinel.dir/src/flow/FlowOrchestrator.cpp.o"
+},
+{
+  "directory": "/Users/bibekthakur/Downloads/Packet_analyzer-main/build",
+  "command": "/usr/bin/c++  -I/Users/bibekthakur/Downloads/Packet_analyzer-main/include -std=c++17 -arch x86_64 -Wall -Wextra -Wpedantic -o CMakeFiles/net_sentinel.dir/src/analysis/TlsProber.cpp.o -c /Users/bibekthakur/Downloads/Packet_analyzer-main/src/analysis/TlsProber.cpp",
+  "file": "/Users/bibekthakur/Downloads/Packet_analyzer-main/src/analysis/TlsProber.cpp",
+  "output": "CMakeFiles/net_sentinel.dir/src/analysis/TlsProber.cpp.o"
+},
+{
+  "directory": "/Users/bibekthakur/Downloads/Packet_analyzer-main/build",
+  "command": "/usr/bin/c++  -I/Users/bibekthakur/Downloads/Packet_analyzer-main/include -std=c++17 -arch x86_64 -Wall -Wextra -Wpedantic -o CMakeFiles/net_sentinel.dir/src/analysis/AppFingerprinter.cpp.o -c /Users/bibekthakur/Downloads/Packet_analyzer-main/src/analysis/AppFingerprinter.cpp",
+  "file": "/Users/bibekthakur/Downloads/Packet_analyzer-main/src/analysis/AppFingerprinter.cpp",
+  "output": "CMakeFiles/net_sentinel.dir/src/analysis/AppFingerprinter.cpp.o"
+},
+{
+  "directory": "/Users/bibekthakur/Downloads/Packet_analyzer-main/build",
+  "command": "/usr/bin/c++  -I/Users/bibekthakur/Downloads/Packet_analyzer-main/include -std=c++17 -arch x86_64 -Wall -Wextra -Wpedantic -o CMakeFiles/net_sentinel.dir/src/rules/PolicyEngine.cpp.o -c /Users/bibekthakur/Downloads/Packet_analyzer-main/src/rules/PolicyEngine.cpp",
+  "file": "/Users/bibekthakur/Downloads/Packet_analyzer-main/src/rules/PolicyEngine.cpp",
+  "output": "CMakeFiles/net_sentinel.dir/src/rules/PolicyEngine.cpp.o"
+},
+{
+  "directory": "/Users/bibekthakur/Downloads/Packet_analyzer-main/build",
+  "command": "/usr/bin/c++  -I/Users/bibekthakur/Downloads/Packet_analyzer-main/include -std=c++17 -arch x86_64 -Wall -Wextra -Wpedantic -o CMakeFiles/net_sentinel.dir/src/engine/InspectionPipeline.cpp.o -c /Users/bibekthakur/Downloads/Packet_analyzer-main/src/engine/InspectionPipeline.cpp",
+  "file": "/Users/bibekthakur/Downloads/Packet_analyzer-main/src/engine/InspectionPipeline.cpp",
+  "output": "CMakeFiles/net_sentinel.dir/src/engine/InspectionPipeline.cpp.o"
+},
+{
+  "directory": "/Users/bibekthakur/Downloads/Packet_analyzer-main/build",
+  "command": "/usr/bin/c++  -I/Users/bibekthakur/Downloads/Packet_analyzer-main/include -std=c++17 -arch x86_64 -Wall -Wextra -Wpedantic -o CMakeFiles/net_sentinel.dir/src/benchmark/Stopwatch.cpp.o -c /Users/bibekthakur/Downloads/Packet_analyzer-main/src/benchmark/Stopwatch.cpp",
+  "file": "/Users/bibekthakur/Downloads/Packet_analyzer-main/src/benchmark/Stopwatch.cpp",
+  "output": "CMakeFiles/net_sentinel.dir/src/benchmark/Stopwatch.cpp.o"
+},
+{
+  "directory": "/Users/bibekthakur/Downloads/Packet_analyzer-main/build",
+  "command": "/usr/bin/c++  -I/Users/bibekthakur/Downloads/Packet_analyzer-main/include -std=c++17 -arch x86_64 -Wall -Wextra -Wpedantic -o CMakeFiles/net_sentinel.dir/src/main.cpp.o -c /Users/bibekthakur/Downloads/Packet_analyzer-main/src/main.cpp",
+  "file": "/Users/bibekthakur/Downloads/Packet_analyzer-main/src/main.cpp",
+  "output": "CMakeFiles/net_sentinel.dir/src/main.cpp.o"
+}
+]

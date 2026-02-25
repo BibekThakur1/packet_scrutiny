@@ -1,0 +1,3 @@
+/Users/bibekthakur/Downloads/Packet_analyzer-main/build/CMakeFiles/net_sentinel.dir
+/Users/bibekthakur/Downloads/Packet_analyzer-main/build/CMakeFiles/edit_cache.dir
+/Users/bibekthakur/Downloads/Packet_analyzer-main/build/CMakeFiles/rebuild_cache.dir
